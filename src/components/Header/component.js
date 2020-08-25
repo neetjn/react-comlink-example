@@ -15,6 +15,7 @@ export const Header = () => (
       <a
         href="https://github.com/neetjn/react-comlink-example"
         target="_blank"
+        rel="noopener noreferrer"
       >
         <Button
           className="bp3-minimal"
